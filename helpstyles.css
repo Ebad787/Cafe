@@ -1,0 +1,62 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+.top{
+    background-color:rgb(185, 222, 53);
+    height: 500px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.left{
+    background-color:rgb(255, 24, 24);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+.right{
+    background-color:rgb(31, 201, 15);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.bottom{
+background-color:rgb(222, 17, 109);
+height: 300px;
+width: 100%;
+float: left;
+font-size:38px;
+color: black; /*This changes the colour of the text. Note the spelling is in American*/
+
+}
+il a{
+    display: block; /*takes up the whole width*/
+    color: antiquewhite; /*colour the text*/
+    font-size: 20px; /*size of the text*/
+    text-align: center;/*will center the text*/
+    text-decoration: none; /*removesthe underline*/
+    padding-top: 5px; /*adds space above the links*/
+    padding-left: 20px; /*adds space between the links*/
+}
+ii a:hover{
+    color: chartreuse; /*changes colour of thr hover*/
+}
+
+
+
+
+
+
+
